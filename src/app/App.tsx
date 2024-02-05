@@ -1,7 +1,8 @@
 import { HomePage } from "../pages/HomePage/HomePage";
 import { PostPage } from "../pages/PostPage/PostPage";
-import { Route, Routes } from "react-router-dom";
+import { Routes, Route, useLocation } from 'react-router-dom';
 import "./App.css";
+
 
 function App() {
   return (
