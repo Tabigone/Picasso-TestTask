@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Picasso-TestTask/static/css/main.d90d497e.css",
+    "main.js": "/Picasso-TestTask/static/js/main.72eac7a0.js",
+    "index.html": "/Picasso-TestTask/index.html",
+    "main.d90d497e.css.map": "/Picasso-TestTask/static/css/main.d90d497e.css.map",
+    "main.72eac7a0.js.map": "/Picasso-TestTask/static/js/main.72eac7a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d90d497e.css",
+    "static/js/main.72eac7a0.js"
+  ]
+}
