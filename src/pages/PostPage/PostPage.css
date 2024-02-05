@@ -1,0 +1,12 @@
+.post-page {
+  min-height: 100vh;
+  padding-top: 30px;
+}
+
+.loader {
+  margin: 0;
+}
+
+.loading-error {
+  margin: 0;
+}
