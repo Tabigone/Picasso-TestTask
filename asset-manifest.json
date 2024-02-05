@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Picasso-TestTask/static/css/main.d90d497e.css",
-    "main.js": "/Picasso-TestTask/static/js/main.97b997ca.js",
+    "main.js": "/Picasso-TestTask/static/js/main.e0eba850.js",
     "index.html": "/Picasso-TestTask/index.html",
     "main.d90d497e.css.map": "/Picasso-TestTask/static/css/main.d90d497e.css.map",
-    "main.97b997ca.js.map": "/Picasso-TestTask/static/js/main.97b997ca.js.map"
+    "main.e0eba850.js.map": "/Picasso-TestTask/static/js/main.e0eba850.js.map"
   },
   "entrypoints": [
     "static/css/main.d90d497e.css",
-    "static/js/main.97b997ca.js"
+    "static/js/main.e0eba850.js"
   ]
 }
